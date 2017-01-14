@@ -1,0 +1,20 @@
+{
+  "name": "distraction-free",
+  "main": "./lib/distraction-free",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": [
+      "distraction-free:more-space-to-active-toggle"
+    ]
+  },
+  "repository": "https://github.com/atom/distraction-free",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

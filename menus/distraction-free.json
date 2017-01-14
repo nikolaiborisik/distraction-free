@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle distraction-free",
+        "command": "distraction-free:more-space-to-active-toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "distraction-free",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "distraction-free:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
