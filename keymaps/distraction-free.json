@@ -2,6 +2,7 @@
   "atom-workspace": {
     "ctrl-alt-o": "distraction-free:more-space-to-active-toggle",
     "space f i" : "distraction-free:more-space-to-active-increase",
-    "space f d" : "distraction-free:more-space-to-active-decrease"
+    "space f d" : "distraction-free:more-space-to-active-decrease",
+    "space f z":  "distraction-free:zen-toggle"
   }
 }

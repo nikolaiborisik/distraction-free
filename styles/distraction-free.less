@@ -5,4 +5,44 @@
 @import "ui-variables";
 
 .distraction-free {
+    &__zenmode {
+        .pane.active {
+            flex-grow: 1;
+            position: fixed;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            z-index: 1;
+            align-items: center;
+        }
+
+        .item-views {
+            width: 75%;
+            max-width: 1000px;
+        }
+
+        .tab-bar {
+            display: none;
+        }
+
+        atom-text-editor .scroll-view {
+            padding-left: 4em;
+        }
+
+        .panel-left,
+        .status-bar,
+        .tab-bar,
+        gutter {
+            display: none;
+        }
+    }
+
+    &__more-space {
+        .pane:not(.active) {
+            .gutter-container {
+                display: none;
+            }
+        }
+    }
 }
