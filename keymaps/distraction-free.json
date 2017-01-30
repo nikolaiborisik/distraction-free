@@ -1,5 +1,6 @@
 {
-  "atom-workspace": {
+
+"atom-text-editor.vim-mode-plus.normal-mode":{
     "ctrl-alt-o": "distraction-free:more-space-to-active-toggle",
     "space f i" : "distraction-free:more-space-to-active-increase",
     "space f d" : "distraction-free:more-space-to-active-decrease",
