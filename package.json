@@ -14,7 +14,7 @@
       "distraction-free:zen-toggle"
     ]
   },
-  "repository": "https://github.com/atom/distraction-free",
+  "repository": "https://github.com/n1k0laj/distraction-free",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
