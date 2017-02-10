@@ -1,7 +1,12 @@
 {
+ ".platform-win32, .platform-linux":{
+    "ctrl-k ctrl-z": "distraction-free:zen-toggle",
+    "ctrl-k ctrl-f": "distraction-free:more-space-to-active-toggle",
+    "ctrl-k ctrl-+": "distraction-free:more-space-to-active-increase",
+    "ctrl-k ctrl--": "distraction-free:more-space-to-active-decrease"
+  },
 
 "atom-text-editor.vim-mode-plus.normal-mode":{
-    "ctrl-alt-o": "distraction-free:more-space-to-active-toggle",
     "space f i" : "distraction-free:more-space-to-active-increase",
     "space f d" : "distraction-free:more-space-to-active-decrease",
     "space f z":  "distraction-free:zen-toggle"

@@ -1,9 +1,12 @@
 {
   "name": "distraction-free",
   "main": "./lib/distraction-free",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "Distraction free tools for Atom. Zen mode and More space for Active panel",
   "keywords": [
+    "distraction-free",
+    "writing",
+    "zen"
   ],
   "activationCommands": {
     "atom-workspace": [
