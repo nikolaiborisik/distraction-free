@@ -6,6 +6,13 @@
     "ctrl-k ctrl--": "distraction-free:more-space-to-active-decrease"
   },
 
+ ".platform-darwin":{
+    "cmd-k cmd-z": "distraction-free:zen-toggle",
+    "cmd-k cmd-f": "distraction-free:more-space-to-active-toggle",
+    "cmd-k cmd-+": "distraction-free:more-space-to-active-increase",
+    "cmd-k cmd--": "distraction-free:more-space-to-active-decrease"
+  },
+
 "atom-text-editor.vim-mode-plus.normal-mode":{
     "space f i" : "distraction-free:more-space-to-active-increase",
     "space f d" : "distraction-free:more-space-to-active-decrease",
