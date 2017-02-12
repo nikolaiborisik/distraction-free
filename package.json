@@ -1,7 +1,7 @@
 {
   "name": "distraction-free",
   "main": "./lib/distraction-free",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Distraction free tools for Atom. Zen mode and More space for Active panel",
   "keywords": [
     "distraction-free",
