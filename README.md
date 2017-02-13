@@ -23,7 +23,9 @@ MacOS
 * distraction-free:more-space-to-active-toggle- Toggle more space for active panel mode
 * distraction-free:more-space-to-active-increase- Increase active panel size in the More space for active panel mode
 * distraction-free:more-space-to-active-decrease- Decrease active panel size in the More space for active panel mode
+
 ## Screnshots
+
 ### Zen mode
 ![Zen mode](http://i.imgsafe.org/dfcdbcbfde.jpg)
 ### More space for active
