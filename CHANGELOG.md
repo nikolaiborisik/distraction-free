@@ -1,3 +1,5 @@
+## 0.0.10
+* Fix Zen mode z-index
 ## 0.0.9
 * Divide options to the mode sections
 * Add Hide gutter options
